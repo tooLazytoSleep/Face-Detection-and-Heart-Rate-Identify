@@ -1,0 +1,2 @@
+﻿  FaceDetection&RGB.cpp
+c:\users\johnlin\desktop\facedetection&rgb.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/objdetect.hpp': No such file or directory
